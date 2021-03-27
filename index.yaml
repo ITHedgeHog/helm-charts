@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mssql:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-27T14:34:56.0677052Z"
+    description: A Helm chart for Kubernetes
+    digest: 5e4a9560f5e55f3f77052f7de15dd74cadee7313ad1d339629f4a90599a37ecd
+    name: mssql
+    type: application
+    urls:
+    - https://ithedgehog.github.io/helm-charts/mssql-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-27T14:34:56.0662052Z"
