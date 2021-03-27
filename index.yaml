@@ -3,12 +3,22 @@ entries:
   mssql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-03-27T14:34:56.0677052Z"
+    created: "2021-03-27T21:21:10.9612028Z"
+    description: A Helm chart for Kubernetes
+    digest: e023db24c18f6aa14ede116c32991cc5883355bc42541595b0b908d8e8c67aab
+    name: mssql
+    type: application
+    urls:
+    - mssql-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-27T21:21:10.9587038Z"
     description: A Helm chart for Kubernetes
     digest: 5e4a9560f5e55f3f77052f7de15dd74cadee7313ad1d339629f4a90599a37ecd
     name: mssql
     type: application
     urls:
-    - https://ithedgehog.github.io/helm-charts/mssql-0.1.0.tgz
+    - mssql-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-27T14:34:56.0662052Z"
+generated: "2021-03-27T21:21:10.9497027Z"
